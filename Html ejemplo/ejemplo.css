@@ -1,0 +1,46 @@
+.header {
+    background-color: aquamarine ;
+    height: 75px;
+   
+}
+.nav{
+    background-color: tomato;
+    height: 60px;
+}
+.section{
+    background-color: yellow;
+    width: 80%;
+    padding: 30px;
+
+
+}
+.article{
+    background-color: peru;
+    
+    
+}
+.foot{
+    background-color: turquoise;
+    height: 60px;
+
+}
+.aside{
+    background-color: wheat;
+    width: 20%;
+}
+.div{
+    display: flex;
+    
+}
+h2{
+    margin: 0px;
+}
+p{
+    margin: 5px;
+}
+.body{
+    margin: 0px;
+}
+h3{
+    margin: 0px;
+}
